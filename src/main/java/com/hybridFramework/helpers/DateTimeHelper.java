@@ -1,4 +1,4 @@
-package com.hybridFramework.utility;
+package com.hybridFramework.helpers;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

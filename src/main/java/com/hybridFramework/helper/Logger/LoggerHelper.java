@@ -3,7 +3,7 @@ package com.hybridFramework.helper.Logger;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
-import com.hybridFramework.utility.ResourceHelper;
+import com.hybridFramework.helpers.ResourceHelper;
 
 /**
  * @author Bhanu Pratap

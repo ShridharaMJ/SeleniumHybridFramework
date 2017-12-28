@@ -1,4 +1,4 @@
-package com.hybridFramework.helper.genericHelper;
+package com.hybridFramework.helpers;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;

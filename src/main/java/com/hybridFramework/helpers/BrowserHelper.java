@@ -1,5 +1,5 @@
 
-package com.hybridFramework.helper.Browser;
+package com.hybridFramework.helpers;
 
 import java.util.LinkedList;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package com.hybridFramework.helper.Wait;
+package com.hybridFramework.helpers;
 
 import java.util.concurrent.TimeUnit;
 

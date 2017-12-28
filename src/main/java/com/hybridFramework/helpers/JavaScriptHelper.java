@@ -1,5 +1,5 @@
 
-package com.hybridFramework.helper.Javascript;
+package com.hybridFramework.helpers;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.JavascriptExecutor;
